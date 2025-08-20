@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer who loves crafting beautiful, performant web
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python
 - **Frameworks/Libraries:** React JS, Vue JS, Next JS, Nuxt JS
-- **UI:** Chakra UI, Tailwind CSS
+- **UI:** Chakra UI, Shadcn, Tailwind CSS
 - **Tools:** Git
 
 ---
